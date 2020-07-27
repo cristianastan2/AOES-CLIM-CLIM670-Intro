@@ -10,7 +10,7 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-## CLIM 680 Climate Data Analysis
+## CLIM 670 Earth System Modeling
 
 ### Instructor
 
@@ -24,7 +24,7 @@ Email: kpegion at gmu dot edu
 
 ### Meeting Days/Times
 
-Thurs @ 10:30-13:10 by Zoom [ Registered students will receive a Zoom invitation ]
+Tues @ 10:30-13:10 by Zoom [ Registered students will receive a Zoom invitation ]
 The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Each part will start promptly.
 
 ### How will this class work in Zoom?
@@ -54,15 +54,14 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 * OneDrive (https://its.gmu.edu/service/office-365-onedrive/#:~:text=Student%20Eligibility,No%20sign%2Dup%20is%20necessary.
 * Microsoft Teams (https://its.gmu.edu/service/microsoft-teams/)
 * COLA Computer Account [we will take care of this together during the first week of class]
-* A Github Account (https://github.com/) [we will take care of this together in class]
-* Your own dataset [ we will work on this together in the first week of class]
+* NCAR Computer Account [we will take care of this together during the first week of class]
 There is no required book for this course.
 
 > ## Icebreaker using OneDrive
 >
 > Add the name you wish to be called and preferred pronouns to the OneDrive document
 >
-> Under First Exercise in the OneDrive document, list the best class you ever took (or one class from your top ten, if you can’t decide), and what made it so great. This exercise should take about 2 minutes.
+> Under First Exercise in the OneDrive document, describe your work in 3 words and say something you are proud of (not necessarily related to research or school).
 >
 >
 {: .challenge}
@@ -88,31 +87,19 @@ There is no required book for this course.
 > ## Prerequisites
 >
 > * Computer programming course or experience in any language
-> * MATH 115 or an equivalent course
 >
 {: .prereq}
 
 ### Overview
 
-How to process, analyze, and interpret environmental data for climate and related disciplines. Familiarizes students with software commonly used in atmospheric research and with techniques for working with large quantities of data. Examines mathematical tools for characterizing global physical data sets which vary in time and space, and applies the tools to observations and numerical model output.
+An Earth system model is composed of models simulating the evolution of the atmosphere, ocean, cryosphere, biosphere, and other components. Course introduces the component models, their interactions, and how they are used to predict the behavior of weather and climate on time scales that range from hours to centuries. Students will learn technical and scientific skills necessary to run an Earth system model and evaluate its output.
 
 _At the end of this course,learners will be able to:_
-* Work comfortably from the Unix command line
-* Read a variety of climate data formats and make maps of the data
-* Handle large simulation and re-forecast datasets
-* Perform basic set of statistical analyses on climate datasets, including:
-   * climatologies and anomalies
-   * monthly and seasonal means and variances
-   * correlation and autocorrelation,
-   * regressions between a climate index and global fields
-   * composites
-   * climate patterns calculated via EOFs
-* Calculate statistical significance (i.e. t-test, f-test) and graph maps with a mask/stippling.
-* Write codes in Python and use Jupyter notebooks
-* Utilize good programming practices
-* Debug, problem solve, and simplify problems
-* Make publication/public quality plots
-* Develop and maintain their own Github repository of climate data analysis tools and codes from this course
+* Design and Run Earth System Model experiments for hypothesis driven research
+* Identify different types of experiments from Earth System models and what they can tell us
+* Analyze the output of an Earth System Model appropriately for a given type of experiment
+* Utilize a high-performance computing system for performing Earth System Model experiments
+* Use an Earth System model in their research
 
 ### Class Attendance
 
@@ -132,9 +119,9 @@ I understand, however that there can be various reasons for missing class and th
 
 In some class periods, you may be assigned to give a short presentation.  These presentations will be part of your grade and you are expected to be in class at the designated class time for your presentation. You must notify me before the end of the class period you are scheduled to present if there is a connectivity issue that prevented you from presenting that day.
 
-#### _Duplication with CLIM670_
+#### _Duplication with CLIM680_
 
-There is some duplication in the beginning of this course with CLIM 670 to make sure that all students are comfortable with required Unix and programming skills.  These knowledge and skills vary widely among students, are critical, and are not typically directly taught, thus the need for duplication.  The class periods that are duplicate are indicated in the course schedule.  Students who are in CLIM 670 may skip any duplicate lessons, but are encouraged to attend as helpers to assist other students with this material.  Helping others will help you to cement your knowledge.
+There is some duplication in the beginning of this course with CLIM 680 to make sure that all students are comfortable with required Unix and programming skills.  These knowledge and skills vary widely among students, are critical, and are not typically directly taught, thus the need for duplication.  The class periods that are duplicate are indicated in the course schedule.  Students who are in CLIM 680 may skip any duplicate lessons, but are encouraged to attend as helpers to assist other students with this material.  Helping others will help you to cement your knowledge.
 
 ### Continuity Plans
 
@@ -146,20 +133,20 @@ In the event that you as a student are unable to continue with the course, pleas
 
 ### How will you be graded?
 
-This course requires students to apply the analysis techniques learned in class on sample datasets to a dataset used in their own research. Your grade will consiste of 50% _homework assignments_ and 50% your _final project_ and calculated as follows:
+Your grade will consiste of 50% _homework assignments_ and 50% your _final project_ and calculated as follows:
 
 * Homework Assignments: 50%
-* Final Project: 50% (25% Github repository and website; 25% presentation)
+* Final Project: 50% (25% written paper; 25% presentation)
 
 #### _Assignments_
-Assignments are provided most weeks that require you to add something to the previous week’s analysis of your dataset.  It is in your best interest to complete these assignments on time in order to keep up with the class.  Assignments will be posted to Blackboard and you will be expected to upload your assignment to Blackboard or provide a Github link to your submission. Instructions will be provided in class.
+Assignments are provided throughout the course weeks that require you to perform an analyze model experiments as we learn how to do them in class.  
 
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard or Github Issues.
 
-If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (Dec 3). You must notify me if you wish me to re-grade a re-submitted assignment.
+If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (Dec 1). You must notify me if you wish me to re-grade a re-submitted assignment.
 
 #### _Final Project_
-You are also expected to complete a project with website in Github and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
+You are also expected to complete a project with a written paper and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
 
 #### _Exams_
 This class has no exams.
