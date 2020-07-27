@@ -1,5 +1,5 @@
 ---
-title: "Syllabus"
+title: "How to get your NCAR Account"
 teaching: 0
 exercises: 0
 questions:
