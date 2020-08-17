@@ -23,7 +23,7 @@ _At the end of this course,learners will be able to:_
 
 ### What is an Earth System Model?
 
-### Types of Exeriments with Earth System Models
+### How can I answer scientific questions using Earth System Models
 
 ### Demo of Earth System Model
 
