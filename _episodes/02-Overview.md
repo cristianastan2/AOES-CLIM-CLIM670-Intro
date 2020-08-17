@@ -1,7 +1,5 @@
 ---
 title: "Overview Earth System Modeling"
-teaching: 0
-exercises: 0
 questions:
 - "What topics will be covered in this course?"
 objectives:

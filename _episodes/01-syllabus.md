@@ -1,7 +1,5 @@
 ---
 title: "Syllabus"
-teaching: 0
-exercises: 0
 questions:
 - "How will this class work?"
 objectives:
