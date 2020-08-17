@@ -3,86 +3,32 @@ title: "Syllabus"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "How will this class work?"
 objectives:
-- "First learning objective. (FIXME)"
+- "To define how this online class will operate and make sure that all learners know how to access and operate the required technology"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Experience with a programming language is required for this class"
+- "This class meets via Zoom"
+- "This class will use MS Teams and a Collaborative Document"
+- "This class will request feedback often"
 ---
 
 ## CLIM 670 Earth System Modeling
 
 ### Instructor
 
-Prof. Kathy Pegion
+<a href="http://kathypegion.com">Prof. Kathy Pegion</a>
 
 Dept. Atmospheric, Oceanic, and Earth Sciences
-
-http://kathypegion.com
 
 Email: kpegion at gmu dot edu
 
 ### Meeting Days/Times
 
-Tues @ 10:30-13:10 by Zoom [ Registered students will receive a Zoom invitation ]
+Tues @ 10:30-13:10 by Zoom 
+<p>
 The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Each part will start promptly.
-
-### How will this class work in Zoom?
-
-* You will receive a recurring Zoom invitation for this class that will contain the link.
-* If your bandwidth allows and you are comfortable doing so, please leave your camera on. I will aim to do the same.
-* Please mute if you are not speaking. I will mute you if there is significant background noise.
-* I highly encourage interactions, questions, discussion, etc. It can be difficult in an online environment to make sure everyone gets the opportunity to speak.  To encourage interactions and make it easy for everyone to interact, if you wish to speak, please use one of the following methods:
-* raise your hand using the Zoom hand raise feature,
-   * type in the shared document (link will be provided),
-   * type in the Zoom chat window
-* I will attempt to monitor each of these and acknowledge people in the order in which they requested to speak.
-* IMPORTANT NOTE: THIS CLASS WILL BE RECORDED.  Videos may be used in other GMU courses or video snippets may be used in public forum (e.g. website, twitter, etc.) as an example or advertisement of online course instruction. If you have privacy concerns, please speak to me ASAP.
-* Please be patient with technical issues as we all learn how best to do online learning via Zoom and to the best we can with our personal home internt.  Your feedback however is also welcome and encouraged.  See Feedback section below.
-
-> ## Introduction and Using Zoom 
->
-> TEST
->
-{: .challenge}
-
-### Materials
-
-* Your computer
-* Access to Blackboard (https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/)
-* Zoom (https://its.gmu.edu/service/zoom/)
-* OneDrive (https://its.gmu.edu/service/office-365-onedrive/#:~:text=Student%20Eligibility,No%20sign%2Dup%20is%20necessary.
-* Microsoft Teams (https://its.gmu.edu/service/microsoft-teams/)
-* COLA Computer Account [we will take care of this together during the first week of class]
-* NCAR Computer Account [we will take care of this together during the first week of class]
-There is no required book for this course.
-
-> ## Icebreaker using OneDrive
->
-> Add the name you wish to be called and preferred pronouns to the OneDrive document
->
-> Under First Exercise in the OneDrive document, describe your work in 3 words and say something you are proud of (not necessarily related to research or school).
->
->
-{: .challenge}
-
-> ## Accessing Course Materials Using Blackboard
->
-> TEST
->
-{: .challenge}
-
-> ## Interacting using MS Teams
->
-> TEST
->
-{: .challenge}
-
-### Best ways to contact me
-
-1. _Email_: I typically respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then I may not have received your email, so please re-send.
-2. _MS Teams_: I have created a Microsoft Teams Channel for this class which you will be invited to.  This will give students an opportunity to interact with me and with each other outside of class. Please discuss assignments, class materials, ask questions, or share resources using this channel. Use it to help each other.  I will also monitor notifications and respond to questions regularly.
-3. _Office Hours_: Please email me if you wish to meet individually and we will schedule a time to meet in Zoom.
+</p>
 
 > ## Prerequisites
 >
@@ -90,16 +36,67 @@ There is no required book for this course.
 >
 {: .prereq}
 
-### Overview
+### How will this class work in Zoom?
 
-An Earth system model is composed of models simulating the evolution of the atmosphere, ocean, cryosphere, biosphere, and other components. Course introduces the component models, their interactions, and how they are used to predict the behavior of weather and climate on time scales that range from hours to centuries. Students will learn technical and scientific skills necessary to run an Earth system model and evaluate its output.
+* Registered students will receive a recurring Zoom invitation for this class that will contain the link.
+* If your bandwidth allows and you are comfortable doing so, please leave your camera on. I will aim to do the same.
+* Please mute if you are not speaking. I will mute you if there is significant background noise.
+* I highly encourage interactions, questions, discussion, etc. It can be difficult in an online environment to make sure everyone gets the opportunity to speak.  To encourage interactions and make it easy for everyone to interact, if you wish to speak, please use one of the following methods:
+   * raise your hand using the Zoom hand raise feature,
+   * type in the shared document (link will be provided),
+   * type in the Zoom chat window
+* I will attempt to monitor each of these and acknowledge people in the order in which they requested to speak.
+* This class will be recorded in Zoom. Videos will be posted on the course Blackboard site.  Videos may also be used in other GMU courses or video snippets that do not identify students may be used in public forum (e.g. website, twitter, etc.) as an example or advertisement of online course instruction. If you have privacy concerns, please speak to me ASAP.
+* Please be patient with technical issues as we all learn how best to do online learning via Zoom and do the best we can with our personal home internt.  Your feedback however is also welcome and encouraged.  See Feedback section below.
 
-_At the end of this course,learners will be able to:_
-* Design and Run Earth System Model experiments for hypothesis driven research
-* Identify different types of experiments from Earth System models and what they can tell us
-* Analyze the output of an Earth System Model appropriately for a given type of experiment
-* Utilize a high-performance computing system for performing Earth System Model experiments
-* Use an Earth System model in their research
+> ## Introductions and Using Zoom 
+>
+> 1. Toggle between speaker view and grid view by clicking in the upper right corner
+> 2. Click on chat and Type your favorite food in the chat window.
+> 2. Change the name that appears for your to your preferred name, by:
+>    * Clicking participants
+>    * Moving the mouse over your name
+>    * Clicking More
+>    * Selecting rename and changing the name that appears for you to your preferred name
+> 3. Raise your hand when you are done
+> 4. I will call out each person in the order they appear on my screen, unmute yourself, correct the pronounciation of your name, and tell us 1 thing you would like us to know about you
+>
+{: .challenge}
+
+### Materials
+
+* Your computer (a tablet will not be sufficient)
+* Access to Blackboard. <a href="https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/"> Need help with Blackboard?</a>
+* <a href="https://its.gmu.edu/service/zoom/">Zoom</a>
+* <a href="https://its.gmu.edu/service/office-365-onedrive/#:~:text=Student%20Eligibility,No%20sign%2Dup%20is%20necessary">OneDrive</a>
+* Microsoft Teams (You will receive an invitation link)
+* COLA Computer Account [we will take care of this together during the first week of class]
+* NCAR Computer Account [we will take care of this together during the first week of class]
+* There is no required book for this course.
+
+> ## Interacting using MS Teams
+>
+> * Access the MS Team for this course
+> * Send a short message to the Team telling us why you are taking this class
+>
+>
+{: .challenge}
+
+> ## Icebreaker using Collaborative Document in MS Teams
+>
+> Access the Notebook for this class using MS Teams, by clicking on Class Notebook -> Collaboration Space -> Class Collaborative Documents -> Current Date
+>
+> 1. Add your name to the Roll Call in the Document
+> 2. This document is also accessible via OneNote in OneDrive. Can you find how to access it?
+> 3. Under Icebreaker in the document, describe your work in 3 words.
+>
+{: .challenge}
+
+### Best ways to contact me
+
+1. _MS Teams_: This is the most efficient way to contact me and receive a reply. During normal work hours, I will likely respond to you within an hour or two if I am at my computer. 
+2. _Email_: I typically respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then I may not have received your email, so please re-send.
+3. _Office Hours_: Please email me if you wish to meet individually and we will schedule a time to meet in Zoom.
 
 ### Class Attendance
 
@@ -139,9 +136,9 @@ Your grade will consiste of 50% _homework assignments_ and 50% your _final proje
 * Final Project: 50% (25% written paper; 25% presentation)
 
 #### _Assignments_
-Assignments are provided throughout the course weeks that require you to perform an analyze model experiments as we learn how to do them in class.  
-
-Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard or Github Issues.
+Several assignments are provided throughout the course that require you to perform or analyze model experiments.  
+Assignments will be submitted to Blackboard unless otherwise specified.
+Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard.
 
 If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (Dec 1). You must notify me if you wish me to re-grade a re-submitted assignment.
 
