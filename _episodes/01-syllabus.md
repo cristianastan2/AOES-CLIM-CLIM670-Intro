@@ -43,7 +43,7 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 * Please mute if you are not speaking. I will mute you if there is significant background noise.
 * I highly encourage interactions, questions, discussion, etc. It can be difficult in an online environment to make sure everyone gets the opportunity to speak.  To encourage interactions and make it easy for everyone to interact, if you wish to speak, please use one of the following methods:
    * raise your hand using the Zoom hand raise feature,
-   * type in the shared document (link will be provided),
+   * type in the shared document,
    * type in the Zoom chat window
 * I will attempt to monitor each of these and acknowledge people in the order in which they requested to speak.
 * This class will be recorded in Zoom. Videos will be posted on the course Blackboard site.  Videos may also be used in other GMU courses or video snippets that do not identify students may be used in public forum (e.g. website, twitter, etc.) as an example or advertisement of online course instruction. If you have privacy concerns, please speak to me ASAP.
