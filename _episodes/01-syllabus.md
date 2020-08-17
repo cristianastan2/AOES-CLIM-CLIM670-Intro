@@ -47,7 +47,7 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
    * type in the Zoom chat window
 * I will attempt to monitor each of these and acknowledge people in the order in which they requested to speak.
 * This class will be recorded in Zoom. Videos will be posted on the course Blackboard site.  Videos may also be used in other GMU courses or video snippets that do not identify students may be used in public forum (e.g. website, twitter, etc.) as an example or advertisement of online course instruction. If you have privacy concerns, please speak to me ASAP.
-* Please be patient with technical issues as we all learn how best to do online learning via Zoom and do the best we can with our personal home internt.  Your feedback however is also welcome and encouraged.  See Feedback section below.
+* Please be patient with technical issues as we all learn how best to do online learning via Zoom and do the best we can with our personal home internet.  Your feedback however is also welcome and encouraged.  See Feedback section below.
 
 > ## Introductions and Using Zoom 
 >
@@ -109,8 +109,8 @@ _Live Coding_: One of the reasons you should attend class in person is that this
 I understand, however that there can be various reasons for missing class and that connectivity issues do occur.  If you miss class for whatever reason, all the information will be available to you on the course Blackboard site, including:
 * Class materials, including hands-on activities, which are publicly available via Github (link will be provided in Blackboard).
 * Classes will be recorded in Zoom, and the video posted to Blackboard.
-* A shard OneDrive document will show information from each class period, including questions asked and links to additional reference information discussed in class. The link to the OneDrive document will be provided in Blackboard.
-* All assignments will be posted to Blackboard.
+* A shared document will show information from each class period, including questions asked and links to additional reference information discussed in class. The Document will be accessible in MS Teams.
+* All assignments will be posted to Blackboard and in the Shared Document.
 
 #### _Presentations_
 
@@ -122,25 +122,25 @@ There is some duplication in the beginning of this course with CLIM 680 to make 
 
 ### Continuity Plans
 
-Given the current times, there are constant changes and new University guidance regarding University operations.  There is also the possibility that a student, instructor, or family member that they care for may become ill and alternate arragements will need to be made.
+Given the current times, there are constant changes and new guidance regarding University operations.  There is also the possibility that a student, instructor, or family member that they care for may become ill and alternate arragements will need to be made.
 
-We will follow all University guidance.  Typically I learn official University guidance at the same time as you.  I will promptly follow up with you via email and MS Teams about how the latest guidance impacts this class.
+We will follow all University guidance.  Please monitor your Mason email for the latest guidance.  Typically I learn official University guidance at the same time as you.  I will promptly follow up with you via email and MS Teams about how any new guidance impacts this class.
 
-In the event that you as a student are unable to continue with the course, please notify me immediately so that we can discuss your options.  In the event that I as the Instructor am unable to continue teaching this course, it will continue as planned at the same day/time with a backup instructor.
+In the event that you as a student are unable to continue with the course, please notify me immediately so that we can discuss your options.  In the event that I as the Instructor am unable to continue teaching this course, it will continue as planned with a backup instructor.
 
 ### How will you be graded?
 
-Your grade will consiste of 50% _homework assignments_ and 50% your _final project_ and calculated as follows:
+Your grade will consist of 50% _homework assignments_ and 50% your _final project_ and calculated as follows:
 
 * Homework Assignments: 50%
 * Final Project: 50% (25% written paper; 25% presentation)
 
 #### _Assignments_
-Several assignments are provided throughout the course that require you to perform or analyze model experiments.  
+There will be 4 graded assignments throughout the course that require you to perform and/or analyze model experiments.  
 Assignments will be submitted to Blackboard unless otherwise specified.
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard.
 
-If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (Dec 1). You must notify me if you wish me to re-grade a re-submitted assignment.
+If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (Dec 1). You must notify me if you wish me to re-grade a re-submitted assignment. It is your responsibility to complete all assignments by the last day of class.
 
 #### _Final Project_
 You are also expected to complete a project with a written paper and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
@@ -152,53 +152,63 @@ This class has no exams.
 
 #### _Academic integrity_
 
-It is expected that students adhere to the George Mason University Honor Code as it relates to integrity regarding coursework and grades.  The Honor Code reads as follows:”To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University community and with the desire for greater academic and personal achievement, we, the student members of the University Community have set forth this: Student members of the George Mason University community pledge not to cheat, plagiarize, steal and/or lie in matters related to academic work.”  More information about the Honor Code, including definitions of cheating, lying, and plagiarism, can be found at the Office of Academic Integrity website at (http://oai.gmu.edu)
+ It is expected that students adhere to the George Mason University Honor Code as it relates to integrity regarding coursework and grades.  The Honor Code reads as follows: To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University community and with the desire for greater academic and personal achievement, we, the student members of the University Community have set forth this: Student members of the George Mason University community pledge __not__ to cheat, plagiarize, steal and/or lie in matters related to academic work. More information about the Honor Code, including definitions of cheating, lying, and plagiarism, can be found at the Office of Academic Integrity website at (http://oai.gmu.edu).  In this class, working together is strongly encouraged and doing so is not a violation of the Honor Code.  Each student must complete their own model runs, their own analysis codes and figures, and their own writeup of the assignment.  
 
-#### Disability accomodations
-Disability Services at George Mason University is committed to providing equitable access to learning opportunities for all students by upholding the laws that ensure equal treatment of people with disabilities. If you are seeking accommodations for this class, please first visit http://dsgmu.wpengine.com/ for detailed information about the Disability Services registration process. Then please discuss your approved accommodations with me. Disability Services is located in Student Union Building I (SUB I), Suite 2500. Email: ods@gmu.edu | Phone: (703) 993-2474
+#### _Disability accomodations_
+<a href="http://dsgmu.wpengine.com/">Disability Services</a> at George Mason University is committed to providing equitable access to learning opportunities for all students by upholding the laws that ensure equal treatment of people with disabilities. If you are seeking accommodations for this class, please first visit <a href="http://dsgmu.wpengine.com/">Disability Services</a> for detailed information about the Disability Services registration process. Then please discuss your approved accommodations with me. Disability Services is located in Student Union Building I (SUB I), Suite 2500. Email: ods@gmu.edu | Phone: (703) 993-2474
 
-#### Diversity and Inclusion
-
-This class is an intentionally inclusive community, promotes and maintains an equitable and just work and learning environment. We welcome and value individuals and their differences including race, economic status, gender expression and identity, sex, sexual orientation, ethnicity, national origin, first language, religion, age, and disability.
-
-[Mason Non-Discrimination Policy](https://universitypolicy.gmu.edu/policies/non-discrimination-policy/)
-[Mason Diversity Statement] (https://stearnscenter.gmu.edu/knowledge-center/general-teaching-resources/mason-diversity-statement/)
-
-#### Netiquite
-
-An important component of inclusivity is to be aware of how our communication impacts others. Electronic communications require additional care to avoid misinterpretation. Please follow approrpriate [Rules of Netiquite](http://www.albion.com/netiquette/corerules.html) when communicating electronically in this course.
-
-
-#### Religious Holidays
-
-It your responsibility to notify me within the first two weeks of the semester of any religious holidays in which you will be absent or unavailable due to religious observances.
-
-#### Privacy
-
-Student privacy is governed by the Family Educational Rights and Privacy Act (FERPA) and is an essential aspect of any course.
-Students must use their MasonLive email account to receive important University information, including communications related to this class. I will not respond to messages sent from or send messages to a non-Mason email address.
-
-#### Sexual Harassment, Sexual Misconduct, and Interpersonal Violence
+#### _Sexual Harassment, Sexual Misconduct, and Interpersonal Violence_
 
 As a faculty member and designated _Responsible Employee_, I am required to report all disclosures of sexual assault, interpersonal violence, and stalking to Mason’s Title IX Coordinator per university policy 1412. If you wish to speak with someone confidentially, please contact the Student Support and Advocacy Center (703-380-1434) or Counseling and Psychological Services (703-993-2380). You may also seek assistance from Mason’s Title IX Coordinator (703-993-8730; titleix@gmu.edu).
 
-### Student Support Services
+#### _Diversity and Inclusion_
 
-A complete list of [student support services](https://stearnscenter.gmu.edu/knowledge-center/knowing-mason-students/student-support-resources-on-campus/)
-Keep Learning, Learning Services (learningservices.gmu.edu/keeplearning/)
-University Libraries (library.gmu.edu)
-Writing Center (writingcenter.gmu.edu)
-Counseling and Psychological Services (caps.gmu.edu)
+Diversity and inclusion mean much more than _do not harrass_.  They mean creating an environment where diverse viewpoints and perpsectives are welcome and everyone feels they are part of the team.  This class aims to be an intentionally inclusive community that promotes and maintains an equitable and just work and learning environment. We welcome and value individuals and their differences including race, economic status, gender expression and identity, sex, sexual orientation, ethnicity, national origin, first language, religion, age, and disability.
 
-### Feedback
+<p><a href="https://universitypolicy.gmu.edu/policies/non-discrimination-policy/">Mason Non-Discrimination Policy</a></p>
+<p><a href="https://stearnscenter.gmu.edu/knowledge-center/general-teaching-resources/mason-diversity-statement/">Mason Diversity Statement</a></p>
+
+The following kinds of behaviors are encouraged to foster an inclusive environment:
+<ul>
+<li>Use welcoming and inclusive language</li>
+<li>Be respectful of different viewpoints and experiences</li>
+<li>Gracefully accept constructive criticism</li>
+<li>Focus on what is best for the community</li>
+<li>Show courtesy and respect towards other community members</li>
+<li>Be Kind</li>
+</ul>
+
+#### _Netiquitte_
+
+An important component of inclusivity is to be aware of how our communication impacts others. Electronic communications require additional care to avoid misinterpretation. The following behaviors are encouraged for online communications:
+
+* Avoid vague words, jargons, and sarcasm.
+* Limit or eliminate the use of exclamation points, bolding, capital letters, and emoticons.
+* Change subject lines of email chains regularly.
+* Plan carefully who to CC on messages.
+* Edit meticulously.
+
+
+#### _Religious Holidays_
+
+It your responsibility to notify me within the first two weeks of the semester of any religious holidays in which you will be absent or unavailable due to religious observances.
+
+#### _Privacy_
+
+Student privacy is governed by the Family Educational Rights and Privacy Act (FERPA) and is an essential aspect of any course.
+Students must use their MasonLive email account to receive important University information, including communications related to this class. I will not respond to messages sent from or send messages to a non-Mason email address. As a reminder this class will be recorded. 
+
+### _Student Support Services_
+<p>
+A complete list of <a href="(https://stearnscenter.gmu.edu/knowledge-center/knowing-mason-students/student-support-resources-on-campus/">student support services</a></p>
+<p><a href="http://learningservices.gmu.edu/keeplearning/">Keep Learning, Learning Services</a></p>
+<p><a href="http://library.gmu.edu">University Libraries</a></p>
+<p><a href="http://writingcenter.gmu.edu">Writing Center</a></p>
+<p><a href="http://caps.gmu.edu">Counseling and Psychological Services</a></p>
+
+### Course Feedback
 
 When teaching online, it can be more difficult for me to gauge student understanding than in person.  In person, I can usually see on a student’s face whether they understand something or not.  This is much more difficult in an online environment.  Additionally, I am consistently working to make my online courses as engaging and effective as possible.  Feedback will be regularly requested at the end of each class period and provide information to adapt the course throughout the semester for this specific class. Additionally, a post course survey will provided to get your overall feedback on the course separate from standard course evaluations which do not provide sufficient useful information for improving the course.  Please help to develop this course by providing feedback so that the course can improve and adapt.
-
-> ## Practice Giving Feedback:  One up, One down
->
-> We will go around the virtual room alternating between giving one positive and one negative thing about the syllabus, without repeating anything that has already been said.
->
-{: .challenge}
 
 {% include links.md %}
 
