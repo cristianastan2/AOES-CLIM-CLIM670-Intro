@@ -3,11 +3,11 @@ title: "Class Project"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is this semester project?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Start thinking about the topic for your semester project"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "A semester project is required for this course"
 ---
 
 ### Description of Project
