@@ -15,7 +15,7 @@ keypoints:
 
 ---
 
-#### What is a Model?
+### What is a Model?
 * Representation of a system or object
 * Examples: Models of a building
   * Small scale physical model
@@ -37,10 +37,11 @@ A climate scientist's laboratory.
 ![Components of the Earth System](../fig/Picture1.png)
 *from [Gettelman A., Rood R.B. 2016 https://doi.org/10.1007/978-3-662-48959-8_2](https://link.springer.com/chapter/10.1007/978-3-662-48959-8_2#citeas)*
 
-Each of these component have many details!  This gets complicated! We must balance resolution, complexity, sample size (ensemble size or simulation length) with the resources of a large supercomputer. Earth system models demand significant computer resources even for a supercomputer!
-
 ![Increasing Complexity of Models over Time](../fig/311434_1_En_4_Fig8_HTML.png)
 *from [Gettelman A., Rood R.B. 2016 https://doi.org/10.1007/978-3-662-48959-8_2](https://link.springer.com/chapter/10.1007/978-3-662-48959-8_2#citeas)*
+
+Each of these component have many details!  This gets complicated! We must balance resolution, complexity, sample size (ensemble size or simulation length) with the resources of a large supercomputer. Earth system models demand significant computer resources even for a supercomputer!
+
 
 ![Tradeoffs](../fig/Schematic-representation-of-the-trade-offs-in-climate-modeling-Additional-computer-power.png)
 *from [Challinor et al. 2009, DOI: 10.1175/2008BAMS2403.1](https://journals-ametsoc-org.mutex.gmu.edu/bams/article/90/6/836/59635/Methods-and-Resources-for-Climate-Impacts)*
