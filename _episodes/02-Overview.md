@@ -15,17 +15,6 @@ keypoints:
 
 ---
 
-### Overview
-
-An Earth system model is composed of models simulating the evolution of the atmosphere, ocean, cryosphere, biosphere, and other components. Course introduces the component models, their interactions, and how they are used to predict the behavior of weather and climate on time scales that range from hours to centuries. Students will learn technical and scientific skills necessary to run an Earth system model and evaluate its output.
-
-_At the end of this course,learners will be able to:_
-* Design and Run Earth System Model experiments for hypothesis driven research
-* Identify different types of experiments from Earth System models and what they can tell us
-* Analyze the output of an Earth System Model appropriately for a given type of experiment
-* Utilize a high-performance computing system for performing Earth System Model experiments
-* Use an Earth System model in their research
-
 #### What is a Model?
 * Representation of a system or object
 * Examples: Models of a building
@@ -43,7 +32,7 @@ These depend on uncertain inputs and the prediction of how the building will loo
 * Componenets share information as needed (i.e. coupling)
 A climate scientist's laboratory. 
 
-#### What are the parts of the Climate System that we want to model?
+### What are the parts of the Climate System that we want to model?
 
 ![Components of the Earth System](../fig/Picture1.png)
 *from [Gettelman A., Rood R.B. 2016 https://doi.org/10.1007/978-3-662-48959-8_2](https://link.springer.com/chapter/10.1007/978-3-662-48959-8_2#citeas)*
@@ -76,9 +65,15 @@ There are three broad categories of experiments:
 > 
 {: .challenge}
 
-### Demo of running NCAR/CESM
-I will perform a demonstration of running the NCAR/Community Earth System Model on a supercomputer.
-This is something you will learn how to do in this class. 
+### What will we learn about Earth System Models in this class?
+Climate models are developed by large teams of scientists (100s of people) who spend their entire careers on this. Most model developers are experts in their one piece of the modeling system.   It is not possilble to learn all the complicated details of a climate model. This class takes a practical approach.
 
+_At the end of this course,learners will be able to:_
+* Design and Run Earth System Model experiments for hypothesis driven research
+* Identify different types of experiments from Earth System models and what they can tell us
+* Analyze the output of an Earth System Model appropriately for a given type of experiment
+* Utilize a high-performance computing system for performing Earth System Model experiments
+* Use an Earth System model in their research
+ 
 {% include links.md %}
 
