@@ -22,7 +22,7 @@ Email: cstan at gmu dot edu
 
 ### Meeting Days/Times
 
-Monday @ 10:30-13:10, 139 Research Hall 
+Monday @ 10:30-13:10, 139 Innovation Hall 
 <p>
 The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Each part will start promptly.
 </p>
