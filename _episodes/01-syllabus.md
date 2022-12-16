@@ -17,7 +17,7 @@ keypoints:
 
 <a href="http://mason.gmu.edu/~cstan">Prof. Cristiana Stan</a>
 
-Dept. Atmospheric, Oceanic, and Earth Sciences
+Dept. Atmospheric, Oceanic and Earth Sciences
 
 Email: cstan at gmu dot edu
 
