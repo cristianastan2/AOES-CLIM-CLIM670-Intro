@@ -6,8 +6,7 @@ objectives:
 - "To define how this online class will operate and make sure that all learners know how to access and operate the required technology"
 keypoints:
 - "Experience with a programming language is required for this class"
-- "This class meets via Zoom"
-- "This class will use MS Teams and a Collaborative Document"
+- "This class meets in person
 - "This class will request feedback often"
 ---
 
