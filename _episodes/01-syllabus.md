@@ -15,15 +15,15 @@ keypoints:
 
 ### Instructor
 
-<a href="http://kathypegion.com">Prof. Kathy Pegion</a>
+<a href="http://mason.gmu.edu/~cstan">Prof. Cristiana Stan</a>
 
 Dept. Atmospheric, Oceanic, and Earth Sciences
 
-Email: kpegion at gmu dot edu
+Email: cstan at gmu dot edu
 
 ### Meeting Days/Times
 
-Tues @ 10:30-13:10 by Zoom 
+Mon @ 10:30-13:10  
 <p>
 The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Each part will start promptly.
 </p>
