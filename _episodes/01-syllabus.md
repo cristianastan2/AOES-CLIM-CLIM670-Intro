@@ -23,7 +23,7 @@ Email: cstan at gmu dot edu
 
 ### Meeting Days/Times
 
-Mon @ 10:30-13:10  
+Mons @ 10:30-13:10  
 <p>
 The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Each part will start promptly.
 </p>
