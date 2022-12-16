@@ -157,7 +157,7 @@ A complete list of <a href="(https://stearnscenter.gmu.edu/knowledge-center/know
 
 ### Course Feedback
 
-When teaching online, it can be more difficult for me to gauge student understanding than in person.  In person, I can usually see on a student’s face whether they understand something or not.  This is much more difficult in an online environment.  Additionally, I am consistently working to make my online courses as engaging and effective as possible.  Feedback will be regularly requested at the end of each class period and provide information to adapt the course throughout the semester for this specific class. Additionally, a post course survey will provided to get your overall feedback on the course separate from standard course evaluations which do not provide sufficient useful information for improving the course.  Please help to develop this course by providing feedback so that the course can improve and adapt.
+Feedback will be regularly requested at the end of each class period and provide information to adapt the course throughout the semester for this specific class. Additionally, a post course survey will provided to get your overall feedback on the course separate from standard course evaluations which do not provide sufficient useful information for improving the course.  Please help to develop this course by providing feedback so that the course can improve and adapt.
 
 {% include links.md %}
 
