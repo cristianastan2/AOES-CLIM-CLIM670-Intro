@@ -38,39 +38,20 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 
 * Your computer (a tablet will not be sufficient)
 * Access to Blackboard. <a href="https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/"> Need help with Blackboard?</a>
-* <a href="https://its.gmu.edu/service/zoom/">Zoom</a>
-* <a href="https://its.gmu.edu/service/office-365-onedrive/#:~:text=Student%20Eligibility,No%20sign%2Dup%20is%20necessary">OneDrive</a>
-* COLA Computer Account [we will take care of this together during the first week of class]
+* GMU Computer Account [we will take care of this together during the first week of class]. You can also visit the < a href="https://orc.gmu.edu/new-user-information/"> Office of Research Computing (ORC) website</a> and click on “ORC Account Request Form”)
 * NCAR Computer Account [we will take care of this together during the first week of class]
 * There is no required book for this course.
 
-> ## Interacting using MS Teams
->
-> * Access the MS Team for this course
-> * Send a short message to the Team telling us why you are taking this class
->
->
-{: .challenge}
-
-> ## Icebreaker using Collaborative Document in MS Teams
->
-> Access the Notebook for this class using MS Teams, by clicking on Class Notebook -> Collaboration Space -> Class Collaborative Documents -> Current Date
->
-> 1. Add your name to the Roll Call in the Document
-> 2. This document is also accessible via OneNote in OneDrive. Can you find how to access it?
-> 3. Under Icebreaker in the document, describe your work in 3 words.
->
-{: .challenge}
 
 ### Best ways to contact me
 
-1. _MS Teams_: This is the most efficient way to contact me and receive a reply. During normal work hours, I will likely respond to you within an hour or two if I am at my computer. 
-2. _Email_: I typically respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then I may not have received your email, so please re-send.
-3. _Office Hours_: Please email me if you wish to meet individually and we will schedule a time to meet in Zoom.
+1. _Blackboard Discussion Forum_: For general questions, problems, etc. addressed to the other students as well as instructors. 
+2. _Email_: For questions directed only to the instructor. I typically respond to emails within 24hrs during the work week and on Mon morning for emails that arrive over the weekend.  If you have not heard a response by this time, then I may not have received your email, so please re-send.
+3. _Office Hours_: Please email me if you wish to meet individually and we will schedule a time to meet in person or via Blackboard Collaborate Ultra.
 
 ### Class Attendance
 
-This is a synchronous, online course which means that it meets regularly online at a specified day and time. It is in your best interest to attend class during the scheduled class time.
+This is a face-to-face course. It is in your best interest to attend class during the scheduled class time - please don’t be late.
 
 _Live Coding_: One of the reasons you should attend class in person is that this class will utilize a methodology called “Live Coding”.  This means you will follow along with me while I share and write code on the screen and explain the code as I go.  There will be no powerpoint presentations. This method is shown to be effective because it slows down the pace so everyone can keep up, forces me to take the time to explain what I am doing, helps you get accustomed to running codes yourself on your computer setup, and lets you see me make mistakes and how to correct them.
 
@@ -78,9 +59,7 @@ _Live Coding_: One of the reasons you should attend class in person is that this
 
 I understand, however that there can be various reasons for missing class and that connectivity issues do occur.  If you miss class for whatever reason, all the information will be available to you on the course Blackboard site, including:
 * Class materials, including hands-on activities, which are publicly available via Github (link will be provided in Blackboard).
-* Classes will be recorded in Zoom, and the video posted to Blackboard.
-* A shared document will show information from each class period, including questions asked and links to additional reference information discussed in class. The Document will be accessible in MS Teams.
-* All assignments will be posted to Blackboard and in the Shared Document.
+* All assignments will be posted to Blackboard.
 
 #### _Presentations_
 
