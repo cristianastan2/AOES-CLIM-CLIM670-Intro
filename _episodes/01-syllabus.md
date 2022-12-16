@@ -37,7 +37,7 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 
 * Your computer (a tablet will not be sufficient)
 * Access to Blackboard. <a href="https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/"> Need help with Blackboard?</a>
-* GMU Computer Account [we will take care of this together during the first week of class]. You can also visit the <a href="https://orc.gmu.edu/new-user-information/"> Office of Research Computing (ORC) website</a> and click on “ORC Account Request Form”)
+* GMU Computer Account [we will take care of this together during the first week of class]. You can also visit the <a href="https://orc.gmu.edu/new-user-information/"> Office of Research Computing (ORC) website</a> and click on “ORC Account Request Form”.
 * NCAR Computer Account [we will take care of this together during the first week of class]
 * There is no required book for this course.
 
