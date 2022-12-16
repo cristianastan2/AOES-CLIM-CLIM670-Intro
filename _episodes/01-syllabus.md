@@ -23,7 +23,7 @@ Email: cstan at gmu dot edu
 
 ### Meeting Days/Times
 
-Mons @ 10:30-13:10  
+Monday @ 10:30-13:10, 139 Research Hall 
 <p>
 The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Each part will start promptly.
 </p>
@@ -34,40 +34,12 @@ The class period is divided into two parts: 10:30 to 11:40 and Noon to 1:10.  Ea
 >
 {: .prereq}
 
-### How will this class work in Zoom?
-
-* Registered students will receive a recurring Zoom invitation for this class that will contain the link.
-* If your bandwidth allows and you are comfortable doing so, please leave your camera on. I will aim to do the same.
-* Please mute if you are not speaking. I will mute you if there is significant background noise.
-* I highly encourage interactions, questions, discussion, etc. It can be difficult in an online environment to make sure everyone gets the opportunity to speak.  To encourage interactions and make it easy for everyone to interact, if you wish to speak, please use one of the following methods:
-   * raise your hand using the Zoom hand raise feature,
-   * type in the shared document,
-   * type in the Zoom chat window
-* I will attempt to monitor each of these and acknowledge people in the order in which they requested to speak.
-* This class will be recorded in Zoom. Videos will be posted on the course Blackboard site.  Videos may also be used in other GMU courses or video snippets that do not identify students may be used in public forum (e.g. website, twitter, etc.) as an example or advertisement of online course instruction. If you have privacy concerns, please speak to me ASAP.
-* Please be patient with technical issues as we all learn how best to do online learning via Zoom and do the best we can with our personal home internet.  Your feedback however is also welcome and encouraged.  See Feedback section below.
-
-> ## Introductions and Using Zoom 
->
-> 1. Toggle between speaker view and grid view by clicking in the upper right corner
-> 2. Click on chat and Type your favorite food in the chat window.
-> 2. Change the name that appears for your to your preferred name, by:
->    * Clicking participants
->    * Moving the mouse over your name
->    * Clicking More
->    * Selecting rename and changing the name that appears for you to your preferred name
-> 3. Raise your hand when you are done
-> 4. I will call out each person in the order they appear on my screen, unmute yourself, correct the pronounciation of your name, and tell us 1 thing you would like us to know about you
->
-{: .challenge}
-
 ### Materials
 
 * Your computer (a tablet will not be sufficient)
 * Access to Blackboard. <a href="https://its.gmu.edu/knowledge-base/blackboard-instructional-technology-support-for-students/"> Need help with Blackboard?</a>
 * <a href="https://its.gmu.edu/service/zoom/">Zoom</a>
 * <a href="https://its.gmu.edu/service/office-365-onedrive/#:~:text=Student%20Eligibility,No%20sign%2Dup%20is%20necessary">OneDrive</a>
-* Microsoft Teams (You will receive an invitation link)
 * COLA Computer Account [we will take care of this together during the first week of class]
 * NCAR Computer Account [we will take care of this together during the first week of class]
 * There is no required book for this course.
