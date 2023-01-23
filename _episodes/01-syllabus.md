@@ -72,7 +72,7 @@ There is some duplication in the beginning of this course with CLIM 680 to make 
 
 Given the current times, there are constant changes and new guidance regarding University operations.  There is also the possibility that a student, instructor, or family member that they care for may become ill and alternate arragements will need to be made.
 
-We will follow all University guidance.  Please monitor your Mason email for the latest guidance.  Typically I learn official University guidance at the same time as you.  I will promptly follow up with you via email and MS Teams about how any new guidance impacts this class.
+We will follow all University guidance.  Please monitor your Mason email for the latest guidance.  Typically I learn official University guidance at the same time as you.  I will promptly follow up with you via email about how any new guidance impacts this class.
 
 In the event that you as a student are unable to continue with the course, please notify me immediately so that we can discuss your options.  In the event that I as the Instructor am unable to continue teaching this course, it will continue as planned with a backup instructor.
 
@@ -84,7 +84,7 @@ Your grade will consist of 50% _homework assignments_ and 50% your _final projec
 * Final Project: 50% (25% written paper; 25% presentation)
 
 #### _Assignments_
-There will be 4 graded assignments throughout the course that require you to perform and/or analyze model experiments.  
+There will be 5 graded assignments throughout the course that require you to perform and/or analyze model experiments.  
 Assignments will be submitted to Blackboard unless otherwise specified.
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard.
 
