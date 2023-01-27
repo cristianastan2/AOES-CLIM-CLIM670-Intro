@@ -88,7 +88,7 @@ There will be 5 graded assignments throughout the course that require you to per
 Assignments will be submitted to Blackboard unless otherwise specified.
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Blackboard.
 
-If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (Dec 1). You must notify me if you wish me to re-grade a re-submitted assignment. It is your responsibility to complete all assignments by the last day of class.
+If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (May 1). You must notify me if you wish me to re-grade a re-submitted assignment. It is your responsibility to complete all assignments by the last day of class.
 
 #### _Final Project_
 You are also expected to complete a project with a written paper and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
