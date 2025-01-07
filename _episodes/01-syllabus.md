@@ -62,7 +62,7 @@ I understand, however that there can be various reasons for missing class and th
 
 #### _Presentations_
 
-In some class periods, you may be assigned to give a short presentation.  These presentations will be part of your grade and you are expected to be in class at the designated class time for your presentation. You must notify me before the end of the class period you are scheduled to present if there is a connectivity issue that prevented you from presenting that day.
+In some class periods, you may be assigned to give a short presentation.  These presentations will be part of your grade and you are expected to be in class at the designated class time for your presentation. You must notify me before the end of the class period you are scheduled to present if there is an issue that prevented you from presenting that day.
 
 #### _Duplication with CLIM680_
 
