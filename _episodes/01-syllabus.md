@@ -3,7 +3,7 @@ title: "Syllabus"
 questions:
 - "How will this class work?"
 objectives:
-- "To define how this online class will operate and make sure that all learners know how to access and operate the required technology"
+- "To define how this class will operate and make sure that all learners know how to access and operate the required technology"
 keypoints:
 - "Experience with a programming language is required for this class"
 - "This class meets in person"
