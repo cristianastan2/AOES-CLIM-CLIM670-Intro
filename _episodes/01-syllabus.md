@@ -88,7 +88,7 @@ You are also expected to complete a project with a written paper and give a pres
 #### _Exams_
 This class has no exams.
 
-### _University Policies_
+#### _University Policies_
 
 Common Policies Addendum
 Policies about Academic Standards, Accommodations for Students with Disabilities, FERPA, and Title IX affecting all GMU Students:
@@ -117,14 +117,17 @@ It your responsibility to notify me within the first two weeks of the semester o
 
 Student privacy is governed by the Family Educational Rights and Privacy Act (FERPA) and is an essential aspect of any course.
 All course materials posted to Canvas or other course site are private to this class; by federal law, any materials that identify specific students (via their name, voice, or image) must not be shared with anyone not enrolled in this class.
-•	Videorecordings -- whether made by instructors or students -- of class meetings that include audio, visual, or textual information from other students are private and must not be shared outside the class
-•	Live video conference meetings that include audio, textual, or visual information from other students must be viewed privately and not shared with others in your household or recorded and shared outside the class
-Other Resources for the General University Experience
-•	Student Support and Advocacy Center (SSAC)
-•	Counseling and Psychological Services
-•	The Office of Diversity, Inclusion, and Multicultural Education (ODIME)
-•	University Career Services
-•	University Writing Center
+
+* Videorecordings -- whether made by instructors or students -- of class meetings that include audio, visual, or textual information from other students are private and must not be shared outside the class
+* Live video conference meetings that include audio, textual, or visual information from other students must be viewed privately and not shared with others in your household or recorded and shared outside the class
+
+#### _Other Resources for the General University Experience_
+
+* Student Support and Advocacy Center (SSAC)
+* Counseling and Psychological Services
+* The Office of Diversity, Inclusion, and Multicultural Education (ODIME)
+* University Career Services
+* University Writing Center
 
 ### _Student Support Services_
 <p>
