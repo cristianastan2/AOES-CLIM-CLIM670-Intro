@@ -77,13 +77,13 @@ Your grade will consist of 50% _homework assignments_ and 50% your _final projec
 
 #### _Assignments_
 There will be 5 graded assignments throughout the course that require you to perform and/or analyze model experiments.  
-Assignments will be submitted to Blackboard unless otherwise specified.
+Assignments will be submitted to Canvas unless otherwise specified.
 Assignments will be graded as satisfactory (A), not satisfactory (C), or not/minimally attempted (F) promptly after the due date. Feedback will be provided via Canvas.
 
 If the assignment is graded not satisfactory or not attempted, you may redo the assignment until it is satisfactory until the last day of class (May 5). You must notify me if you wish me to re-grade a re-submitted assignment. It is your responsibility to complete all assignments by the last day of class.
 
 #### _Final Project_
-You are also expected to complete a project with a written paper and give a presentation in class of your project. Project details will be provided in class and posted on Blackboard.
+You are also expected to complete a project with a written paper and give a presentation in class of your project. Project details will be provided in class and posted on Canvas.
 
 #### _Exams_
 This class has no exams.
