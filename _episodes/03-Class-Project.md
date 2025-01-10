@@ -9,12 +9,12 @@ keypoints:
 ---
 
 ### Description of Project
-In this class, you will learn to perform hypothesis driven experiments with an Earth System Model.  You will complete a class project that involves application of the skills from this class to your own model experiments.  The project will consist of:
+In this class, you will learn to perform hypothesis driven experiments with an Earth System Model, a Single Column Model and an AI model.  You will complete a class project that involves application of the skills from this class to your own model experiments.  The project will consist of:
 
 * A written paper describing your scientific question, hypothesis, experiment design, and results. 
 * An oral presentation to the class describing the project
 
-You may perform proof-of-concept experiments on a scientific question related to your graduate research and/or interests  or you may reproduce the results from a journal article in which experiments were performed using climate model.  You should use CESM for your experiments.
+You may perform proof-of-concept experiments on a scientific question related to your graduate research and/or interests  or you may reproduce the results from a journal article in which experiments were performed using climate model.  You should use any of the models utiled in the class for your experiments.
 
 > ## Start Thinking about your scientific question
 >
