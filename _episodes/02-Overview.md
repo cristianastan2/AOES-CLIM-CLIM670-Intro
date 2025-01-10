@@ -8,8 +8,9 @@ objectives:
 - "Introduce the concept of Earth System Models"
 - "Begin thinking about types of experiments and skills we need to use them"
 keypoints:
-- "Earth System Models are our laboratory"
-- "Earth System Models are our complex and computationally demanding"
+- "Earth System Models and AI Models are our laboratory"
+- "Earth System Models are complex and computationally demanding"
+- "An AI model is a computational system that uses machine learning algorithms to identify patterns and make predictions based on large datasets"
 - "There are 3 broad types of experiments: Simulation, Prediction, Projection" 
 - "Running Earth System Model Experiment requires technical skills we will learn"
 
