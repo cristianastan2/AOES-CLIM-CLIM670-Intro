@@ -42,6 +42,7 @@ A climate scientist's laboratory.
 
 Each of these component have many details!  This gets complicated! We must balance resolution, complexity, sample size (ensemble size or simulation length) with the resources of a large supercomputer. Earth system models demand significant computer resources even for a supercomputer!
 
+Earth System Model (ESM) development starts with a simplified version of the ESM that focuses on the vertical processes within a single atmopsheric column known as the single column model (SCM). 
 
 ![Tradeoffs](../fig/Schematic-representation-of-the-trade-offs-in-climate-modeling-Additional-computer-power.png)
 *from [Challinor et al. 2009, DOI: 10.1175/2008BAMS2403.1](https://journals-ametsoc-org.mutex.gmu.edu/bams/article/90/6/836/59635/Methods-and-Resources-for-Climate-Impacts)*
@@ -67,14 +68,16 @@ There are three broad categories of experiments:
 {: .challenge}
 
 ### What will we learn about Earth System Models in this class?
-Climate models are developed by large teams of scientists (100s of people) who spend their entire careers on this. Most model developers are experts in their one piece of the modeling system.   It is not possilble to learn all the complicated details of a climate model. This class takes a practical approach.
+Climate models are developed by large teams of scientists (100s of people) who spend their entire careers on this. Most model developers are experts in their one piece of the modeling system. It is not possible to learn all the complicated details of a climate model. This class takes a practical approach.
 
-_At the end of this course,learners will be able to:_
+_At the end of this course, learners will be able to:_
 * Design and Run Earth System Model experiments for hypothesis driven research
 * Identify different types of experiments from Earth System models and what they can tell us
 * Analyze the output of an Earth System Model appropriately for a given type of experiment
 * Utilize a high-performance computing system for performing Earth System Model experiments
+* Use a Single Column model in their research
 * Use an Earth System model in their research
+* Use an AI model in their research
  
 {% include links.md %}
 
