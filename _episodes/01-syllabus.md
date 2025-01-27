@@ -66,7 +66,7 @@ In some class periods, you may be assigned to give a short presentation.  These 
 
 #### _Duplication with CLIM680_
 
-There is some duplication in the beginning of this course with CLIM 680 to make sure that all students are comfortable with required Unix and programming skills.  These knowledge and skills vary widely among students, are critical, and are not typically directly taught, thus the need for duplication.  The class periods that are duplicate are indicated in the course schedule.  Students who are in CLIM 680 may skip any duplicate lessons, but are encouraged to attend as helpers to assist other students with this material.  Helping others will help you to cement your knowledge.
+There is some duplication in the beginning of this course with CLIM 680 to make sure that all students are comfortable with required Unix and programming skills.  These knowledge and skills vary widely among students, are critical, and are not typically directly taught, thus the need for duplication.  The class periods that are duplicate are indicated in the course schedule.  Students who have taken CLIM 680 may skip any duplicate lessons, but are encouraged to attend as helpers to assist other students with this material.  Helping others will help you to cement your knowledge.
 
 ### How will you be graded?
 
